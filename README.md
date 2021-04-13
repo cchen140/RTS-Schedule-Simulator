@@ -1,3 +1,6 @@
+### This is an archived repository.
+### Maintenance has been transferred to https://github.com/synercys/RTS-Schedule-Simulator
+
 # Real-time Task Generator and Schedule Simulator (RT-TGSS Suite)
 
 ## Command - _rttaskgen_
